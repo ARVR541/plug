@@ -4,7 +4,7 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-// gjgj
+    // Basic project information
     <groupId>me.ariver</groupId>
     <artifactId>HelloPlugin</artifactId>
     <version>1.0</version>
