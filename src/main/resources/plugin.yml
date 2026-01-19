@@ -1,0 +1,5 @@
+commands:
+  hello:
+    description: Say hello
+  info:
+    description: Show server info
