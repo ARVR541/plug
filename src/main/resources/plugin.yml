@@ -1,5 +1,14 @@
+name: HelloPlugin
+version: 1.0
+main: me.ariver.helloplugin.HelloPlugin
+api-version: 1.21
+
 commands:
   hello:
     description: Say hello
   info:
     description: Show server info
+  kino:
+    description: Cinema commands
+    usage: /kino <join|leave|play|stop|status> [url]
+
